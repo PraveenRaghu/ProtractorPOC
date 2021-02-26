@@ -1,0 +1,20 @@
+{
+  "name": "protractorpoc",
+  "version": "1.0.0",
+  "description": "protactpoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praveen",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^7.0.0",
+    "typescript": "4.1.5",
+    "jasmine": "^3.6.4",
+    "@types/jasmine": "^3.6.3",
+    "@types/jasminewd2": "2.0.8",
+    "ts-node": "9.1.1",
+    "@types/node": "14.14.27"
+  }
+}
